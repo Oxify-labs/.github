@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Custom Banner -->
-<img src="https://i.ibb.co/39KB1FT7/image.png" width="100%" alt="OXIFY LABS"/>
+<img src="https://i.ibb.co/FLpg6YhK/Screenshot-2026-02-16-021209.png" width="100%" alt="OXIFY LABS Banner"/>
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%E2%9A%A1+Multi-disciplinary+R%26D+Lab;Building+Foundational+Tools+for+Finance%2C+Enterprise+AI;We+Don't+Chase+Trends.+We+Build+Foundations." alt="Typing SVG" /></a>
