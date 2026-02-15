@@ -1,5 +1,4 @@
-Here's the complete markdown code! You can copy this entire block and paste it as your README.md file in your GitHub organization:
-markdown# OXIFY LABS
+
 ```ascii
  ██████╗ ██╗  ██╗██╗███████╗██╗   ██╗    ██╗      █████╗ ██████╗ ███████╗
 ██╔═══██╗╚██╗██╔╝██║██╔════╝╚██╗ ██╔╝    ██║     ██╔══██╗██╔══██╗██╔════╝
