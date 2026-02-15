@@ -283,7 +283,4 @@ If you're solving hard problems and need world-class engineering, let's talk.
 
 <br/><br/>
 
-<!-- Profile Views Counter -->
-![Profile Views](https://komarev.com/ghpvc/?username=oxify-labs&color=00ff88&style=for-the-badge&label=PROFILE+VIEWS)
-
 </div>
