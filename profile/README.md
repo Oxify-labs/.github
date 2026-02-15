@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Animated SVG Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=300&section=header&text=OXIFY%20LABS&fontSize=90&fontAlignY=35&animation=twinkling&fontColor=00ff88&desc=Rewriting%20the%20Source%20Code%20of%20Industry&descSize=25&descAlignY=55" width="100%"/>
+<!-- Custom Banner -->
+<img src="https://i.ibb.co/39KB1FT7/image.png" width="100%" alt="OXIFY LABS"/>
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%E2%9A%A1+Multi-disciplinary+R%26D+Lab;Building+Foundational+Tools+for+Finance%2C+Enterprise+AI;We+Don't+Chase+Trends.+We+Build+Foundations." alt="Typing SVG" /></a>
