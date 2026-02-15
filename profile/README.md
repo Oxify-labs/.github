@@ -32,45 +32,41 @@
 
 <table>
 <tr>
-<td width="50%" align="center">
+<td width="50%">
 
-### 🎯 What We Do
+<h3 align="center">🎯 What We Do</h3>
 
-```yaml
-domains:
-  - SaaS Development
-  - Fintech Infrastructure
-  - Web3-Enabled Systems
-  - Distributed Architecture
-  - Intelligent Automation
-  - Product Strategy & System Design
-```
+<p align="center">
+  <strong>SaaS Development</strong><br/>
+  <strong>Fintech Infrastructure</strong><br/>
+  <strong>Web3-Enabled Systems</strong><br/>
+  <strong>Distributed Architecture</strong><br/>
+  <strong>Intelligent Automation</strong><br/>
+  <strong>Product Strategy & System Design</strong>
+</p>
 
 </td>
-<td width="50%" align="center">
+<td width="50%">
 
-### 💎 Our Principles
+<h3 align="center">💎 Our Principles</h3>
 
-```yaml
-scalable: "by default"
-secure: "by architecture"
-modular: "by design"
-philosophy: "built for long-term evolution"
-```
+<p align="center">
+  <strong>Scalable:</strong> by default<br/>
+  <strong>Secure:</strong> by architecture<br/>
+  <strong>Modular:</strong> by design<br/>
+  <strong>Philosophy:</strong> built for long-term evolution
+</p>
 
 </td>
 </tr>
 </table>
 
-<div align="center">
+<p align="center">
+  <code>╔═══════════════════════════════════════════════════════════════════════════╗</code><br/>
+  <code>║  Engineering Discipline × Product Intelligence × Future-Facing Infrastructure  ║</code><br/>
+  <code>╚═══════════════════════════════════════════════════════════════════════════╝</code>
+</p>
 
-```
-╔═══════════════════════════════════════════════════════════════════════════╗
-║  Engineering Discipline × Product Intelligence × Future-Facing Infrastructure  ║
-╚═══════════════════════════════════════════════════════════════════════════╝
-```
-
-</div>
 
 ---
 
@@ -349,13 +345,13 @@ If you're solving hard problems and need world-class engineering, let's talk.
 
 <br/>
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│  "Move deliberately. Build systematically. Ship confidently." │
-│                                                                 │
-│                        — Oxify Labs                            │
-└─────────────────────────────────────────────────────────────┘
-```
+<p align="center">
+  <code>┌─────────────────────────────────────────────────────────────┐</code><br/>
+  <code>│  "Move deliberately. Build systematically. Ship confidently." │</code><br/>
+  <code>│                                                                 │</code><br/>
+  <code>│                        — Oxify Labs                            │</code><br/>
+  <code>└─────────────────────────────────────────────────────────────┘</code>
+</p>
 
 <br/>
 
