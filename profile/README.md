@@ -1,36 +1,41 @@
-
-```ascii
- ██████╗ ██╗  ██╗██╗███████╗██╗   ██╗    ██╗      █████╗ ██████╗ ███████╗
-██╔═══██╗╚██╗██╔╝██║██╔════╝╚██╗ ██╔╝    ██║     ██╔══██╗██╔══██╗██╔════╝
-██║   ██║ ╚███╔╝ ██║█████╗   ╚████╔╝     ██║     ███████║██████╔╝███████╗
-██║   ██║ ██╔██╗ ██║██╔══╝    ╚██╔╝      ██║     ██╔══██║██╔══██╗╚════██║
-╚██████╔╝██╔╝ ██╗██║██║        ██║       ███████╗██║  ██║██████╔╝███████║
- ╚═════╝ ╚═╝  ╚═╝╚═╝╚═╝        ╚═╝       ╚══════╝╚═╝  ╚═╝╚═════╝ ╚══════╝
-```
-
 <div align="center">
 
-**Rewriting the source code of industry.**
+<!-- Animated SVG Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=300&section=header&text=OXIFY%20LABS&fontSize=90&fontAlignY=35&animation=twinkling&fontColor=00ff88&desc=Rewriting%20the%20Source%20Code%20of%20Industry&descSize=25&descAlignY=55" width="100%"/>
 
-⚡ Multi-disciplinary R&D lab building foundational tools for Finance, Enterprise AI, and Architecture.
+<!-- Typing SVG -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%E2%9A%A1+Multi-disciplinary+R%26D+Lab;Building+Foundational+Tools+for+Finance%2C+Enterprise+AI;We+Don't+Chase+Trends.+We+Build+Foundations." alt="Typing SVG" /></a>
 
-[![Website](https://img.shields.io/badge/🌐-oxify--labs.vercel.app-0A0A0A?style=for-the-badge)](https://oxify-labs.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/company/oxify-labs/)
+<br/>
+
+<!-- Animated Badges -->
+[![Website](https://img.shields.io/badge/🌐_Website-oxify--labs.vercel.app-0A0A0A?style=for-the-badge&logo=vercel&logoColor=00ff88)](https://oxify-labs.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/oxify-labs/)
+[![Email](https://img.shields.io/badge/📧_Contact-Get_In_Touch-00ff88?style=for-the-badge&logo=gmail&logoColor=white)](https://oxify-labs.vercel.app/)
+
+<br/>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 </div>
 
 ---
 
+<div align="center">
+
 ## ⚙️ WE BUILD INFRASTRUCTURE, NOT FEATURES
 
-Most companies build features. We build **systems**.
+**Most companies build features. We build *systems*.**
 
-Oxify Labs is a systems-focused product engineering studio that transforms complex ideas into production-ready, high-performance software. From MVP architecture to fully deployed platforms, we operate at the intersection of:
-```
-Engineering Discipline × Product Intelligence × Future-Facing Infrastructure
-```
+</div>
 
-### What We Do
+<table>
+<tr>
+<td width="50%" align="center">
+
+### 🎯 What We Do
+
 ```yaml
 domains:
   - SaaS Development
@@ -39,47 +44,87 @@ domains:
   - Distributed Architecture
   - Intelligent Automation
   - Product Strategy & System Design
-
-principles:
-  scalable: "by default"
-  secure: "by architecture"
-  modular: "by design"
-  philosophy: "built for long-term evolution"
 ```
 
+</td>
+<td width="50%" align="center">
+
+### 💎 Our Principles
+
+```yaml
+scalable: "by default"
+secure: "by architecture"
+modular: "by design"
+philosophy: "built for long-term evolution"
+```
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+```
+╔═══════════════════════════════════════════════════════════════════════════╗
+║  Engineering Discipline × Product Intelligence × Future-Facing Infrastructure  ║
+╚═══════════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
 ---
+
+<div align="center">
 
 ## 🎯 THE OXIFY DIFFERENCE
 
-| Others | Oxify Labs |
-|--------|-----------|
-| Move fast and break things | **Engineer deliberately. Deploy confidently.** |
-| Feature factories | **System architects** |
-| Technical debt accumulation | **Clean, maintainable codebases from day one** |
-| Trend-chasing | **Foundation-building** |
-| Reactive fixes | **Proactive architecture** |
+</div>
 
-### Our Approach
-
-1. **Deep Architectural Thinking Before Implementation**
-   - We design the system topology before writing a single line of code
-   - Every decision considers scalability, maintainability, and future evolution
-
-2. **Performance, Scalability, Resilience**
-   - Systems that don't just work — they *thrive* under pressure
-   - Built for 10x growth, not just today's requirements
-
-3. **Product + Engineering Alignment**
-   - Technology serves product goals, not the other way around
-   - Strategic thinking meets tactical execution
-
-4. **Research-Driven Innovation**
-   - Internal R&D projects like **LUMEO infrastructure**
-   - We don't just use technology — we push its boundaries
+<table>
+<tr>
+<th width="50%" align="center">
+  
+  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" />
+  <br/>Others
+  
+</th>
+<th width="50%" align="center">
+  
+  <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30" />
+  <br/>Oxify Labs
+  
+</th>
+</tr>
+<tr>
+<td align="center">Move fast and break things</td>
+<td align="center"><b>🎯 Engineer deliberately. Deploy confidently.</b></td>
+</tr>
+<tr>
+<td align="center">Feature factories</td>
+<td align="center"><b>🏗️ System architects</b></td>
+</tr>
+<tr>
+<td align="center">Technical debt accumulation</td>
+<td align="center"><b>✨ Clean, maintainable codebases from day one</b></td>
+</tr>
+<tr>
+<td align="center">Trend-chasing</td>
+<td align="center"><b>🔨 Foundation-building</b></td>
+</tr>
+<tr>
+<td align="center">Reactive fixes</td>
+<td align="center"><b>🛡️ Proactive architecture</b></td>
+</tr>
+</table>
 
 ---
 
+<div align="center">
+
 ## 🏗️ CORE PHILOSOPHY
+
+</div>
+
 ```rust
 struct OxifyLabs {
     approach: SystemsThinking,
@@ -101,31 +146,134 @@ impl OxifyLabs {
 }
 ```
 
-**Technology as Infrastructure** — This isn't about flashy features or hype cycles. This is about building the rails that future systems run on.
+<div align="center">
+
+**Technology as Infrastructure** — This isn't about flashy features or hype cycles.  
+This is about building the rails that future systems run on.
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
+
+</div>
 
 ---
+
+<div align="center">
 
 ## 🚀 WHAT WE'RE BUILDING
 
-### Active Research Areas
+</div>
 
-- **Financial Infrastructure** — Payment systems, transaction engines, and compliance-ready fintech platforms
-- **Enterprise AI Systems** — Production-grade intelligent automation and ML infrastructure
-- **Distributed Systems** — Scalable architectures for modern cloud-native applications
-- **Web3 Infrastructure** — Blockchain-enabled systems with real-world utility
-- **Product Platforms** — Full-stack SaaS foundations built for scale
+<table>
+<tr>
+<td width="33%" align="center">
 
-### Open Source Contributions
+### 💰
+**Financial Infrastructure**
 
-We believe in giving back to the ecosystem. Watch this space for tools, libraries, and frameworks emerging from our internal research.
+Payment systems, transaction engines, and compliance-ready fintech platforms
+
+</td>
+<td width="33%" align="center">
+
+### 🤖
+**Enterprise AI Systems**
+
+Production-grade intelligent automation and ML infrastructure
+
+</td>
+<td width="33%" align="center">
+
+### 🌐
+**Distributed Systems**
+
+Scalable architectures for modern cloud-native applications
+
+</td>
+</tr>
+<tr>
+<td width="33%" align="center">
+
+### ⛓️
+**Web3 Infrastructure**
+
+Blockchain-enabled systems with real-world utility
+
+</td>
+<td width="33%" align="center">
+
+### 📦
+**Product Platforms**
+
+Full-stack SaaS foundations built for scale
+
+</td>
+<td width="33%" align="center">
+
+### 🔓
+**Open Source**
+
+Tools, libraries, and frameworks from our research
+
+</td>
+</tr>
+</table>
 
 ---
 
+<div align="center">
+
+## 🎓 OUR APPROACH
+
+</div>
+
+<details open>
+<summary><b>🧠 Deep Architectural Thinking Before Implementation</b></summary>
+<br/>
+
+- We design the system topology before writing a single line of code
+- Every decision considers scalability, maintainability, and future evolution
+- Architecture-first mindset prevents technical debt
+
+</details>
+
+<details>
+<summary><b>⚡ Performance, Scalability, Resilience</b></summary>
+<br/>
+
+- Systems that don't just work — they *thrive* under pressure
+- Built for 10x growth, not just today's requirements
+- Stress-tested for real-world scenarios
+
+</details>
+
+<details>
+<summary><b>🎯 Product + Engineering Alignment</b></summary>
+<br/>
+
+- Technology serves product goals, not the other way around
+- Strategic thinking meets tactical execution
+- Cross-functional collaboration from day one
+
+</details>
+
+<details>
+<summary><b>🔬 Research-Driven Innovation</b></summary>
+<br/>
+
+- Internal R&D projects like **LUMEO infrastructure**
+- We don't just use technology — we push its boundaries
+- Contributing back to the ecosystem
+
+</details>
+
+---
+
+<div align="center">
+
 ## 🧬 STACK PHILOSOPHY
 
-We're language-agnostic and framework-pragmatic. The right tool for the right problem.
+</div>
 
-**But here's what we value:**
 ```typescript
 const oxifyStack = {
   priority: [
@@ -140,34 +288,67 @@ const oxifyStack = {
     'Technology for Technology\'s Sake',
     'Fragile Abstractions',
     'Magic That Nobody Understands'
-  ]
+  ],
+  
+  approach: 'Language-agnostic. Framework-pragmatic. Problem-focused.'
 }
 ```
 
+<div align="center">
+
+**We're language-agnostic and framework-pragmatic.**  
+*The right tool for the right problem.*
+
+</div>
+
 ---
-
-## 🎓 MISSION STATEMENT
-
-> **To build and enable modern digital infrastructure that powers the next generation of products, platforms, and payment systems.**
-
-We're not just writing code. We're architecting the foundation layer of tomorrow's digital economy.
-
----
-
-## 📡 CONNECT WITH US
 
 <div align="center">
 
-🌐 **[Website](https://oxify-labs.vercel.app/)** | 💼 **[LinkedIn](https://www.linkedin.com/company/oxify-labs/)** | 📧 **[Get in Touch](https://oxify-labs.vercel.app/)**
+## 🎓 MISSION STATEMENT
+
+</div>
+
+> ### 🚀 To build and enable modern digital infrastructure that powers the next generation of products, platforms, and payment systems.
+
+<div align="center">
+
+**We're not just writing code.**  
+**We're architecting the foundation layer of tomorrow's digital economy.**
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
+
+</div>
 
 ---
 
-### Interested in Working With Us?
+<div align="center">
 
-We partner with ambitious teams building complex systems.  
+## 📡 CONNECT WITH US
+
+<br/>
+
+<a href="https://oxify-labs.vercel.app/">
+  <img src="https://img.shields.io/badge/🌐_Visit_Our_Website-oxify--labs.vercel.app-00ff88?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/company/oxify-labs/">
+  <img src="https://img.shields.io/badge/💼_Connect_on_LinkedIn-Oxify_Labs-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://oxify-labs.vercel.app/">
+  <img src="https://img.shields.io/badge/📧_Get_In_Touch-Let's_Build-00ff88?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+
+### 🤝 Interested in Working With Us?
+
+**We partner with ambitious teams building complex systems.**  
 If you're solving hard problems and need world-class engineering, let's talk.
 
----
+<br/>
+
 ```
 ┌─────────────────────────────────────────────────────────────┐
 │  "Move deliberately. Build systematically. Ship confidently." │
@@ -176,10 +357,25 @@ If you're solving hard problems and need world-class engineering, let's talk.
 └─────────────────────────────────────────────────────────────┘
 ```
 
-**⚡ Rewriting the Source Code of Industry**
+<br/>
+
+## ⚡ Rewriting the Source Code of Industry
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=150&section=footer" width="100%"/>
 
 </div>
 
 ---
 
+<div align="center">
+
 <sub>© 2025 Oxify Labs. Building infrastructure for the next generation.</sub>
+
+<br/><br/>
+
+<!-- Profile Views Counter -->
+![Profile Views](https://komarev.com/ghpvc/?username=oxify-labs&color=00ff88&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
