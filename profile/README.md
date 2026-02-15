@@ -28,45 +28,32 @@
 
 **Most companies build features. We build *systems*.**
 
+<br/>
+
 </div>
 
-<table>
-<tr>
-<td width="50%">
+<div align="center">
 
-<h3 align="center">🎯 What We Do</h3>
+| 🎯 **What We Do** | 💎 **Our Principles** |
+|:---:|:---:|
+| SaaS Development | **Scalable:** by default |
+| Fintech Infrastructure | **Secure:** by architecture |
+| Web3-Enabled Systems | **Modular:** by design |
+| Distributed Architecture | **Philosophy:** built for long-term evolution |
+| Intelligent Automation | |
+| Product Strategy & System Design | |
 
-<p align="center">
-  <strong>SaaS Development</strong><br/>
-  <strong>Fintech Infrastructure</strong><br/>
-  <strong>Web3-Enabled Systems</strong><br/>
-  <strong>Distributed Architecture</strong><br/>
-  <strong>Intelligent Automation</strong><br/>
-  <strong>Product Strategy & System Design</strong>
-</p>
+</div>
 
-</td>
-<td width="50%">
+<br/>
 
-<h3 align="center">💎 Our Principles</h3>
+<div align="center">
 
-<p align="center">
-  <strong>Scalable:</strong> by default<br/>
-  <strong>Secure:</strong> by architecture<br/>
-  <strong>Modular:</strong> by design<br/>
-  <strong>Philosophy:</strong> built for long-term evolution
-</p>
+**Engineering Discipline × Product Intelligence × Future-Facing Infrastructure**
 
-</td>
-</tr>
-</table>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
 
-<p align="center">
-  <code>╔═══════════════════════════════════════════════════════════════════════════╗</code><br/>
-  <code>║  Engineering Discipline × Product Intelligence × Future-Facing Infrastructure  ║</code><br/>
-  <code>╚═══════════════════════════════════════════════════════════════════════════╝</code>
-</p>
-
+</div>
 
 ---
 
@@ -76,42 +63,17 @@
 
 </div>
 
-<table>
-<tr>
-<th width="50%" align="center">
-  
-  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" />
-  <br/>Others
-  
-</th>
-<th width="50%" align="center">
-  
-  <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30" />
-  <br/>Oxify Labs
-  
-</th>
-</tr>
-<tr>
-<td align="center">Move fast and break things</td>
-<td align="center"><b>🎯 Engineer deliberately. Deploy confidently.</b></td>
-</tr>
-<tr>
-<td align="center">Feature factories</td>
-<td align="center"><b>🏗️ System architects</b></td>
-</tr>
-<tr>
-<td align="center">Technical debt accumulation</td>
-<td align="center"><b>✨ Clean, maintainable codebases from day one</b></td>
-</tr>
-<tr>
-<td align="center">Trend-chasing</td>
-<td align="center"><b>🔨 Foundation-building</b></td>
-</tr>
-<tr>
-<td align="center">Reactive fixes</td>
-<td align="center"><b>🛡️ Proactive architecture</b></td>
-</tr>
-</table>
+<div align="center">
+
+| 🔥 **Others** | 🤝 **Oxify Labs** |
+|:---:|:---:|
+| Move fast and break things | 🎯 **Engineer deliberately. Deploy confidently.** |
+| Feature factories | 🏗️ **System architects** |
+| Technical debt accumulation | ✨ **Clean, maintainable codebases from day one** |
+| Trend-chasing | 🔨 **Foundation-building** |
+| Reactive fixes | 🛡️ **Proactive architecture** |
+
+</div>
 
 ---
 
@@ -159,60 +121,14 @@ This is about building the rails that future systems run on.
 
 </div>
 
-<table>
-<tr>
-<td width="33%" align="center">
+<div align="center">
 
-### 💰
-**Financial Infrastructure**
+| | | |
+|:---:|:---:|:---:|
+| **💰**<br/>**Financial Infrastructure**<br/>Payment systems, transaction engines,<br/>and compliance-ready fintech platforms | **🤖**<br/>**Enterprise AI Systems**<br/>Production-grade intelligent<br/>automation and ML infrastructure | **🌐**<br/>**Distributed Systems**<br/>Scalable architectures for<br/>modern cloud-native applications |
+| **⛓️**<br/>**Web3 Infrastructure**<br/>Blockchain-enabled systems<br/>with real-world utility | **📦**<br/>**Product Platforms**<br/>Full-stack SaaS foundations<br/>built for scale | **🔓**<br/>**Open Source**<br/>Tools, libraries, and frameworks<br/>from our research |
 
-Payment systems, transaction engines, and compliance-ready fintech platforms
-
-</td>
-<td width="33%" align="center">
-
-### 🤖
-**Enterprise AI Systems**
-
-Production-grade intelligent automation and ML infrastructure
-
-</td>
-<td width="33%" align="center">
-
-### 🌐
-**Distributed Systems**
-
-Scalable architectures for modern cloud-native applications
-
-</td>
-</tr>
-<tr>
-<td width="33%" align="center">
-
-### ⛓️
-**Web3 Infrastructure**
-
-Blockchain-enabled systems with real-world utility
-
-</td>
-<td width="33%" align="center">
-
-### 📦
-**Product Platforms**
-
-Full-stack SaaS foundations built for scale
-
-</td>
-<td width="33%" align="center">
-
-### 🔓
-**Open Source**
-
-Tools, libraries, and frameworks from our research
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
@@ -345,13 +261,9 @@ If you're solving hard problems and need world-class engineering, let's talk.
 
 <br/>
 
-<p align="center">
-  <code>┌─────────────────────────────────────────────────────────────┐</code><br/>
-  <code>│  "Move deliberately. Build systematically. Ship confidently." │</code><br/>
-  <code>│                                                                 │</code><br/>
-  <code>│                        — Oxify Labs                            │</code><br/>
-  <code>└─────────────────────────────────────────────────────────────┘</code>
-</p>
+**"Move deliberately. Build systematically. Ship confidently."**
+
+**— Oxify Labs**
 
 <br/>
 
